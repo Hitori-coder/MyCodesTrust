@@ -23,7 +23,7 @@ height=100.5
 print('my height is '+str(height),'cm')
 print(type(height))
 
-ASSIGNMENT
+Type Cast
 a = 1
 b = 2.8
 c = '9'
@@ -34,3 +34,20 @@ b=int(b)
 c=int(c)
 print(b)
 print(c)
+
+ASSIGNMENTS (different)
+name = 'hitori'
+age = 16
+water = False
+name,age,water = 'hitori',16,False
+print(name)
+print(age)
+print(water)
+ASSIGNMENTS (same)
+Ahmed = 16
+Ali = 16
+Junaid = 16
+Ahmed = Ali = Junaid = 16
+print(Ahmed)
+print(Ali)
+print(Junaid)
