@@ -22,3 +22,15 @@ print(type(water))
 height=100.5
 print('my height is '+str(height),'cm')
 print(type(height))
+
+ASSIGNMENT
+a = 1
+b = 2.8
+c = '9'
+#print(a)
+#print(b)
+#print(c*2)
+b=int(b)
+c=int(c)
+print(b)
+print(c)
