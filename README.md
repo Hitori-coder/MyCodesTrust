@@ -51,3 +51,16 @@ Ahmed = Ali = Junaid = 16
 print(Ahmed)
 print(Ali)
 print(Junaid)
+
+STRING METHODS
+name = 'hitori'
+print=(len(name)) tell how many alphabets are in the name
+print(name.find('i')) finds the no of letters in the name
+print(name.capitalize()) capitalizes the first letter of the name
+print(name.upper()) writes the whole name in upper case letters
+print(name.lower()) writes the whole name in lower case letters
+print(name.isdigit()) tells if there is any digit in the name 
+print(name.isalpha()) tells if there is any alphabets in the name 
+print(name.count('o')) self explanatory
+print(name.replace('o','a') self explanatory
+print(name*6) self explanatory
